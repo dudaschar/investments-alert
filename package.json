@@ -1,0 +1,19 @@
+{
+  "name": "investment-alert",
+  "version": "1.0.0",
+  "description": "Alert to rescue investiment when is more profitable",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "nodemon server.js"
+  },
+  "author": "Eduarda Scharnhorst",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

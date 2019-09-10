@@ -1,0 +1,1 @@
+exports.ipca2050 = require('./ipca-2050')
